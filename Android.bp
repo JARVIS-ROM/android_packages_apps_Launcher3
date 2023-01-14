@@ -381,8 +381,6 @@ android_app {
     },
 
     platform_apis: true,
-    min_sdk_version: "current",
-    target_sdk_version: "current",
 
     privileged: true,
     system_ext_specific: true,
